@@ -8,7 +8,7 @@ This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mat
 </div>
 
 ### Datasets and Models
-Our 7B models are available at Huggingface now.
+Our 7B models are available at Hugging Face now.
 
 <!-- 🤗 [MathCodeInstruct Dataset](https://huggingface.co/datasets/MathLLM/MathCodeInstruct) -->
 
