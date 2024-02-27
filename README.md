@@ -83,13 +83,23 @@ python evaluate.py outs/MathCoder-L-7b/MATH/MATH_test_result-20230917-2026.jsonl
 Please cite the paper if you use our data, model or code. Please also kindly cite the original dataset papers. 
 
 ```
-@misc{wang2023mathcoder,
-      title={MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning}, 
-      author={Ke Wang and Houxing Ren and Aojun Zhou and Zimu Lu and Sichun Luo and Weikang Shi and Renrui Zhang and Linqi Song and Mingjie Zhan and Hongsheng Li},
-      year={2023},
-      eprint={2310.03731},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{
+wang2024mathcoder,
+title={MathCoder: Seamless Code Integration in {LLM}s for Enhanced Mathematical Reasoning},
+author={Ke Wang and Houxing Ren and Aojun Zhou and Zimu Lu and Sichun Luo and Weikang Shi and Renrui Zhang and Linqi Song and Mingjie Zhan and Hongsheng Li},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=z8TW0ttBPp}
 }
 ```
 
+```
+@inproceedings{
+zhou2024solving,
+title={Solving Challenging Math Word Problems Using {GPT}-4 Code Interpreter with Code-based Self-Verification},
+author={Aojun Zhou and Ke Wang and Zimu Lu and Weikang Shi and Sichun Luo and Zipeng Qin and Shaoqing Lu and Anya Jia and Linqi Song and Mingjie Zhan and Hongsheng Li},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=c8McWs4Av0}
+}
+```
