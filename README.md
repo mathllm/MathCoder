@@ -8,7 +8,7 @@ This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mat
 </div>
 
 ## 💥 News 💥
-- **[2023.02.27]** 🤗 [MathCodeInstruct Dataset](https://huggingface.co/datasets/MathLLM/MathCodeInstruct) is available now! 🔥🔥🔥
+- **[2023.04.29]** 🤗 [MathCodeInstruct Dataset](https://huggingface.co/datasets/MathLLM/MathCodeInstruct) is available now! 🔥🔥🔥
 - **[2023.02.27]** 🚀 [MathGenie](https://mathgenie.github.io/) achieves an accuracy of 87.7% on GSM8K and 55.7% on MATH. 🎉 Congratulations!
 - **[2023.02.27]** The inference and evaluation code for MathCoders is available now.
 - **[2023.01.16]** 🌟 Our [**MathCoder**](https://openreview.net/forum?id=z8TW0ttBPp) and [**CSV**](https://openreview.net/forum?id=c8McWs4Av0) has been accepted at **ICLR 2024**! 🎉 Cheers!
