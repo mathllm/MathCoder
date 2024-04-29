@@ -16,13 +16,18 @@ This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mat
 - **[2023.10.05]** Our paper is now accessible at https://arxiv.org/abs/2310.03731.
 
 ### Datasets and Models
-Our 7B models are available at Hugging Face now.
+Our models are available at Hugging Face now.
 
-<!-- 🤗 [MathCodeInstruct Dataset](https://huggingface.co/datasets/MathLLM/MathCodeInstruct) -->
+🤗 [MathCodeInstruct Dataset](https://huggingface.co/datasets/MathLLM/MathCodeInstruct)
 
-|     	| Base Model: Llama-2                                           	| Base Model: Code Llama                                                    	|
-|-----	|---------------------------------------------------------------	|---------------------------------------------------------------------------	|
-| 7B  	|  [MathCoder-L-7B](https://huggingface.co/MathLLM/MathCoder-L-7B)   	|  [MathCoder-CL-7B](https://huggingface.co/MathLLM/MathCoder-CL-7B)   	|
+| Base Model: Llama-2                                           	| Base Model: Code Llama                                                |
+|-------------------------------------------------------------------|-----------------------------------------------------------------------|
+|  [MathCoder-L-7B](https://huggingface.co/MathLLM/MathCoder-L-7B)  |  [MathCoder-CL-7B](https://huggingface.co/MathLLM/MathCoder-CL-7B)   	|
+|  [MathCoder-L-13B](https://huggingface.co/MathLLM/MathCoder-L-13B)  |  [MathCoder-CL-34B](https://huggingface.co/MathLLM/MathCoder-CL-34B)   	|
+
+
+## Training Data
+The models are trained on the [MathCodeInstruct](https://huggingface.co/datasets/MathLLM/MathCodeInstruct) Dataset.
 
 <br>
 <div align="center">
