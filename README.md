@@ -1,6 +1,6 @@
 # **MathCoder**
-This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning](https://arxiv.org/pdf/2310.03731.pdf)"
-
+This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning](https://openreview.net/pdf?id=z8TW0ttBPp)"
+This repo is for "[MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://openreview.net/pdf?id=lclKPTKM9R)"
 
 <br>
 <div align="center">
@@ -8,8 +8,10 @@ This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mat
 </div>
 
 ## 💥 News 💥
-- **[2024.05.20]** 🤗 [MathCodeInstruct Dataset-Plus](https://huggingface.co/datasets/MathLLMs/MathCodeInstruct-Plus) is available now! 🔥🔥🔥
-- **[2024.04.29]** 🤗 [MathCodeInstruct Dataset](https://huggingface.co/datasets/MathLLMs/MathCodeInstruct) is available now! 🔥🔥🔥
+
+- **[2025.05.16]** 🤗 [MathCoder-VL-2B](https://huggingface.co/datasets/MathLLMs/MathCoder-VL-2B), [MathCoder-VL-8B](https://huggingface.co/datasets/MathLLMs/MathCoder-VL-8B) and [FigCodifier-8B](https://huggingface.co/datasets/MathLLMs/FigCodifier) is available now! 🔥🔥🔥
+- **[2024.05.20]** 🤗 [MathCodeInstruct Dataset-Plus](https://huggingface.co/datasets/MathLLMs/MathCodeInstruct-Plus) is available now! 🔥
+- **[2024.04.29]** 🤗 [MathCodeInstruct Dataset](https://huggingface.co/datasets/MathLLMs/MathCodeInstruct) is available now! 🔥
 - **[2024.02.27]** 🚀 [MathGenie](https://mathgenie.github.io/) achieves an accuracy of 87.7% on GSM8K and 55.7% on MATH. 🎉 Congratulations!
 - **[2024.02.27]** The inference and evaluation code for MathCoders is available now.
 - **[2024.01.16]** 🌟 Our [**MathCoder**](https://openreview.net/forum?id=z8TW0ttBPp) and [**CSV**](https://openreview.net/forum?id=c8McWs4Av0) has been accepted at **ICLR 2024**! 🎉 Cheers!
