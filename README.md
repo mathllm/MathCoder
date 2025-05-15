@@ -1,7 +1,7 @@
 # **MathCoder**
 This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning](https://openreview.net/pdf?id=z8TW0ttBPp)"
 
-This repo is for "[MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://openreview.net/pdf?id=lclKPTKM9R)"
+🔥🔥🔥 We release "[MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://openreview.net/pdf?id=lclKPTKM9R)"
 
 <br>
 <div align="center">
