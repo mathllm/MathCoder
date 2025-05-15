@@ -101,7 +101,7 @@ url={https://openreview.net/forum?id=nuvtX1imAb}
 ```
 ```
 @inproceedings{
-lu2025mathcoder,
+lu2025mathcoder2,
 title={MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code},
 author={Zimu Lu and Aojun Zhou and Ke Wang and Houxing Ren and Weikang Shi and Junting Pan and Mingjie Zhan and Hongsheng Li},
 booktitle={The Thirteenth International Conference on Learning Representations},
