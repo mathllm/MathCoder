@@ -11,6 +11,7 @@ This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mat
 ## 💥 News 💥
 
 - **[2025.05.16]** 🤗 [MathCoder-VL-2B](https://huggingface.co/MathLLMs/MathCoder-VL-2B), [MathCoder-VL-8B](https://huggingface.co/MathLLMs/MathCoder-VL-8B) and [FigCodifier-8B](https://huggingface.co/MathLLMs/FigCodifier) is available now! 🔥🔥🔥
+- - **[2025.05.16]** Our MathCoder-VL is accepted to ACL 2025 Findings. 🔥🔥🔥
 - **[2024.05.20]** 🤗 [MathCodeInstruct Dataset-Plus](https://huggingface.co/datasets/MathLLMs/MathCodeInstruct-Plus) is available now! 🔥
 - **[2024.04.29]** 🤗 [MathCodeInstruct Dataset](https://huggingface.co/datasets/MathLLMs/MathCodeInstruct) is available now! 🔥
 - **[2024.02.27]** 🚀 [MathGenie](https://mathgenie.github.io/) achieves an accuracy of 87.7% on GSM8K and 55.7% on MATH. 🎉 Congratulations!
@@ -90,8 +91,28 @@ python evaluate.py outs/MathCoder-L-7b/MATH/MATH_test_result-20230917-2026.jsonl
 
 ## **Citation**
 
-Please cite the paper if you use our data, model or code. Please also kindly cite the original dataset papers. 
+Please cite the paper if you use our data, model or code.
 
+```
+@inproceedings{
+wang2025mathcodervl,
+title={MathCoder-{VL}: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning},
+author={Ke Wang and Junting Pan and Linda Wei and Aojun Zhou and Weikang Shi and Zimu Lu and Han Xiao and Yunqiao Yang and Houxing Ren and Mingjie Zhan and Hongsheng Li},
+booktitle={The 63rd Annual Meeting of the Association for Computational Linguistics},
+year={2025},
+url={https://openreview.net/forum?id=nuvtX1imAb}
+}
+```
+```
+@inproceedings{
+lu2025mathcoder,
+title={MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code},
+author={Zimu Lu and Aojun Zhou and Ke Wang and Houxing Ren and Weikang Shi and Junting Pan and Mingjie Zhan and Hongsheng Li},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=1Iuw1jcIrf}
+}
+```
 ```
 @inproceedings{
 wang2024mathcoder,
@@ -100,16 +121,5 @@ author={Ke Wang and Houxing Ren and Aojun Zhou and Zimu Lu and Sichun Luo and We
 booktitle={The Twelfth International Conference on Learning Representations},
 year={2024},
 url={https://openreview.net/forum?id=z8TW0ttBPp}
-}
-```
-
-```
-@inproceedings{
-zhou2024solving,
-title={Solving Challenging Math Word Problems Using {GPT}-4 Code Interpreter with Code-based Self-Verification},
-author={Aojun Zhou and Ke Wang and Zimu Lu and Weikang Shi and Sichun Luo and Zipeng Qin and Shaoqing Lu and Anya Jia and Linqi Song and Mingjie Zhan and Hongsheng Li},
-booktitle={The Twelfth International Conference on Learning Representations},
-year={2024},
-url={https://openreview.net/forum?id=c8McWs4Av0}
 }
 ```
