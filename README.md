@@ -7,7 +7,7 @@ This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mat
 ## 💥 News 💥
 
 - **[2025.05.16]** 🤗 [MathCoder-VL-2B](https://huggingface.co/MathLLMs/MathCoder-VL-2B), [MathCoder-VL-8B](https://huggingface.co/MathLLMs/MathCoder-VL-8B) and [FigCodifier-8B](https://huggingface.co/MathLLMs/FigCodifier) is available now! 🔥🔥🔥
-- - **[2025.05.16]** Our MathCoder-VL is accepted to ACL 2025 Findings. 🔥🔥🔥
+- **[2025.05.16]** Our MathCoder-VL is accepted to ACL 2025 Findings. 🔥🔥🔥
 - **[2024.05.20]** 🤗 [MathCodeInstruct Dataset-Plus](https://huggingface.co/datasets/MathLLMs/MathCodeInstruct-Plus) is available now! 🔥
 - **[2024.04.29]** 🤗 [MathCodeInstruct Dataset](https://huggingface.co/datasets/MathLLMs/MathCodeInstruct) is available now! 🔥
 - **[2024.02.27]** 🚀 [MathGenie](https://mathgenie.github.io/) achieves an accuracy of 87.7% on GSM8K and 55.7% on MATH. 🎉 Congratulations!
