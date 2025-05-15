@@ -3,10 +3,6 @@ This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mat
 
 🔥🔥🔥 We release "[MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://openreview.net/pdf?id=lclKPTKM9R)"
 
-<br>
-<div align="center">
-  <img src="figures/mathcoder.png" width="80%" title="Introduction Figure">
-</div>
 
 ## 💥 News 💥
 
