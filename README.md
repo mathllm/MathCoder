@@ -119,3 +119,13 @@ year={2024},
 url={https://openreview.net/forum?id=z8TW0ttBPp}
 }
 ```
+```
+@inproceedings{
+zhou2024solving,
+title={Solving Challenging Math Word Problems Using {GPT}-4 Code Interpreter with Code-based Self-Verification},
+author={Aojun Zhou and Ke Wang and Zimu Lu and Weikang Shi and Sichun Luo and Zipeng Qin and Shaoqing Lu and Anya Jia and Linqi Song and Mingjie Zhan and Hongsheng Li},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=c8McWs4Av0}
+}
+```
