@@ -98,8 +98,7 @@ booktitle={The 63rd Annual Meeting of the Association for Computational Linguist
 year={2025},
 url={https://openreview.net/forum?id=nuvtX1imAb}
 }
-```
-```
+
 @inproceedings{
 lu2025mathcoder2,
 title={MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code},
@@ -108,8 +107,7 @@ booktitle={The Thirteenth International Conference on Learning Representations},
 year={2025},
 url={https://openreview.net/forum?id=1Iuw1jcIrf}
 }
-```
-```
+
 @inproceedings{
 wang2024mathcoder,
 title={MathCoder: Seamless Code Integration in {LLM}s for Enhanced Mathematical Reasoning},
@@ -118,8 +116,7 @@ booktitle={The Twelfth International Conference on Learning Representations},
 year={2024},
 url={https://openreview.net/forum?id=z8TW0ttBPp}
 }
-```
-```
+
 @inproceedings{
 zhou2024solving,
 title={Solving Challenging Math Word Problems Using {GPT}-4 Code Interpreter with Code-based Self-Verification},
