@@ -5,6 +5,7 @@ This repo is for "[MathCoder: Seamless Code Integration in LLMs for Enhanced Mat
 
 
 ## 💥 News 💥
+- **[2025.10.18]** 🤗 We release [MathCanvas](https://github.com/shiwk24/MathCanvas), an approach enables models to strategically generate and reason with visual aids, mirroring how humans solve complex problems in domains like geometry and function analysis.! 🔥🔥🔥
 - **[2025.09.30]** 🤗 [ImgCode-8.6M](https://huggingface.co/datasets/MathLLMs/Img2Code) is available now! 🔥🔥🔥
 - **[2025.05.19]** 🤗 [MM-MathInstruct-3M](https://huggingface.co/datasets/MathLLMs/MM-MathInstruct) is available now! 🔥🔥🔥
 - **[2025.05.16]** 🤗 [MathCoder-VL-2B](https://huggingface.co/MathLLMs/MathCoder-VL-2B), [MathCoder-VL-8B](https://huggingface.co/MathLLMs/MathCoder-VL-8B) and [FigCodifier-8B](https://huggingface.co/MathLLMs/FigCodifier) is available now! 🔥🔥🔥
@@ -93,37 +94,38 @@ Please cite the paper if you use our data, model or code.
 ```
 @inproceedings{
 wang2025mathcodervl,
-title={MathCoder-{VL}: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning},
-author={Ke Wang and Junting Pan and Linda Wei and Aojun Zhou and Weikang Shi and Zimu Lu and Han Xiao and Yunqiao Yang and Houxing Ren and Mingjie Zhan and Hongsheng Li},
-booktitle={The 63rd Annual Meeting of the Association for Computational Linguistics},
-year={2025},
-url={https://openreview.net/forum?id=nuvtX1imAb}
+  title={MathCoder-{VL}: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning},
+  author={Ke Wang and Junting Pan and Linda Wei and Aojun Zhou and Weikang Shi and Zimu Lu and Han Xiao and Yunqiao Yang and Houxing Ren and Mingjie Zhan and Hongsheng Li},
+  booktitle={The 63rd Annual Meeting of the Association for Computational Linguistics},
+  year={2025},
+  url={https://openreview.net/forum?id=nuvtX1imAb}
+}
+
+@misc{shi2025mathcanvasintrinsicvisualchainofthought,
+    title={MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning}, 
+    author={Weikang Shi and Aldrich Yu and Rongyao Fang and Houxing Ren and Ke Wang and Aojun Zhou and Changyao Tian and Xinyu Fu and Yuxuan Hu and Zimu Lu and Linjiang Huang and Si Liu and Rui Liu and Hongsheng Li},
+  year={2025},
+  eprint={2510.14958},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2510.14958}, 
 }
 
 @inproceedings{
-lu2025mathcoder2,
-title={MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code},
-author={Zimu Lu and Aojun Zhou and Ke Wang and Houxing Ren and Weikang Shi and Junting Pan and Mingjie Zhan and Hongsheng Li},
-booktitle={The Thirteenth International Conference on Learning Representations},
-year={2025},
-url={https://openreview.net/forum?id=1Iuw1jcIrf}
+  wang2024mathcoder,
+  title={MathCoder: Seamless Code Integration in {LLM}s for Enhanced Mathematical Reasoning},
+  author={Ke Wang and Houxing Ren and Aojun Zhou and Zimu Lu and Sichun Luo and Weikang Shi and Renrui Zhang and Linqi Song and Mingjie Zhan and Hongsheng Li},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+  url={https://openreview.net/forum?id=z8TW0ttBPp}
 }
 
 @inproceedings{
-wang2024mathcoder,
-title={MathCoder: Seamless Code Integration in {LLM}s for Enhanced Mathematical Reasoning},
-author={Ke Wang and Houxing Ren and Aojun Zhou and Zimu Lu and Sichun Luo and Weikang Shi and Renrui Zhang and Linqi Song and Mingjie Zhan and Hongsheng Li},
-booktitle={The Twelfth International Conference on Learning Representations},
-year={2024},
-url={https://openreview.net/forum?id=z8TW0ttBPp}
-}
-
-@inproceedings{
-zhou2024solving,
-title={Solving Challenging Math Word Problems Using {GPT}-4 Code Interpreter with Code-based Self-Verification},
-author={Aojun Zhou and Ke Wang and Zimu Lu and Weikang Shi and Sichun Luo and Zipeng Qin and Shaoqing Lu and Anya Jia and Linqi Song and Mingjie Zhan and Hongsheng Li},
-booktitle={The Twelfth International Conference on Learning Representations},
-year={2024},
-url={https://openreview.net/forum?id=c8McWs4Av0}
+  zhou2024solving,
+  title={Solving Challenging Math Word Problems Using {GPT}-4 Code Interpreter with Code-based Self-Verification},
+  author={Aojun Zhou and Ke Wang and Zimu Lu and Weikang Shi and Sichun Luo and Zipeng Qin and Shaoqing Lu and Anya Jia and Linqi Song and Mingjie Zhan and Hongsheng Li},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+  url={https://openreview.net/forum?id=c8McWs4Av0}
 }
 ```
